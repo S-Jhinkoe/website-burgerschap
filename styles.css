@@ -1,0 +1,19 @@
+body {
+    padding-top: 60px;
+    background-color: beige;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+/* Voor mooie achtergrondafbeeldingen */
+.container {
+    min-height: 70vh; /* Zorgt ervoor dat de sectie genoeg hoogte heeft */
+    background-color: rgba(255, 255, 255, 0.8); /* Zorgt voor een lichte achtergrond */
+    border-radius: 5px; /* Hoekafgeronde container */
+    padding: 30px; /* Extra padding */
+}
